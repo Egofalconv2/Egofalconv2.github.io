@@ -1,0 +1,14 @@
+Package: com.falcon.terminal
+Version: 1.0.2-2
+Architecture: iphoneos-arm
+Maintainer: Falcon <joel.caswell@yahoo.co.uk>
+Depends: 
+Filename: debs/
+Size: 713485
+MD5sum: f30f41981f6136acc612bdbad46123ae
+SHA1: a4dd541388d274c3e0269d6f05d5f758ca59b510
+SHA256: a4dd541388d274c3e0269d6f05d5f758ca59b510
+Section: Admin
+Description: This is a Terminal used as a dependancy for Backup
+Author: ichitaso <willfilltips+terminal@gmail.com>
+Name: IOS Terminal - Falcon
